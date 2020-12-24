@@ -1,7 +1,6 @@
 ![](https://github.com/quantumporium/quantumporium/blob/main/Djegnene%20Babo%20penyel%20aka%20Quantum%20Porium.png)
-Hi there 👋!  I am Penyel, an afro-Canadian teenager extremely passionate about __innovation and entrepreneurship__.
-I am currently researching some of the most groundbreaking and innovations that will happen in the coming years.  To create a unicorn company that will impact billions.
-My research includes __AI, quantum computing,  blockchain, synthetic biology, and much more__.
+Hi there 👋!  I am Penyel, __an afro-Canadian teenager__ extremely passionate about __innovation and entrepreneurship__.
+I am currently researching some of the most groundbreaking and innovations that will happen in the coming years.  Those research will help __create a unicorn company__ that will impact billions. My research includes __AI, quantum computing,  blockchain, synthetic biology, and much more__.
 
 
 
