@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
+<h2> Hi!  I am Penyel, an afro-Canadian teenager extremely passionate about innovation and entrepreneurship.
+I am currently researching some of the most groundbreaking and innovations that will happen in the coming years.  To create a unicorn company that will impact billions.
+My research includes AI, quantum computing,  blockchain, synthetic biology, and much more. </h2>
 
-<!--
-**quantumporium/quantumporium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
