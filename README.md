@@ -5,6 +5,7 @@ I am currently researching some of the most groundbreaking and innovations that 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://penyel-djegnene.medium.com/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/penyel-babo-karlenry-djegnene-3b4bb81b0/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quantumporium)
+[![](https://img.shields.io/badge/Newsletter-FFE01B?style=for-the-badge&logo=MailChimp&logoColor=white)](#)
 
 ## I'm currently working on and learning.
 
@@ -18,7 +19,19 @@ __Quantum programming__: I am expending the knowledge I have on quantum programm
 
 __Blockchain__: I'm doing some research on blockchain technology more precisely cryptocurrency. I want to know how we can use concepts coming from the field of crypto-economics and microeconomics to create economic development.
 
-### My skills.
+## My skills.
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 Here are some ideas to get you started:
 
