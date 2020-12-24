@@ -2,6 +2,9 @@
 Hi there 👋!  I am Penyel, __an afro-Canadian teenager__ extremely passionate about __innovation and entrepreneurship__.
 I am currently researching some of the most groundbreaking and innovations that will happen in the coming years.  Those research will help __create a unicorn company__ that will impact billions. My research includes __AI, quantum computing,  blockchain, synthetic biology, and much more__.
 
+### How to reach me.
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://penyel-djegnene.medium.com/)
+
 ## I'm currently working on and learning.
 
 __Synthetic biology__: I have recently bought a synthetic biology and bioengineering class from [the-Odin](https://www.the-odin.com/)  this class will teach how to do bioengineering with CRISPR cas9.
