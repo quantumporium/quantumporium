@@ -15,7 +15,7 @@ __AI/ML :robot::__ I am learning and expanding the knowledge that I have on the 
 
 You can go check out a list of resources that I made regarding the field of AI ethics [here]().
 
-__Quantum programming <img src="https://www.ibm.com/blogs/research/wp-content/uploads/2018/05/qiskit.gif" width="25px" >:__ I am expending the knowledge I have on quantum programming by learning some of the underlying mathematical concept needed and learning Qiskit
+__Quantum programming <img src="https://www.ibm.com/blogs/research/wp-content/uploads/2018/05/qiskit.gif" width="15px" >:__ I am expending the knowledge I have on quantum programming by learning some of the underlying mathematical concept needed and learning Qiskit
 
 __Blockchain__: I'm doing some research on blockchain technology more precisely cryptocurrency. I want to know how we can use concepts coming from the field of crypto-economics and microeconomics to create economic development.
 
