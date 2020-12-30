@@ -5,7 +5,7 @@ I am currently researching some of the most groundbreaking and innovations that 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://penyel-djegnene.medium.com/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/penyel-babo-karlenry-djegnene-3b4bb81b0/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quantumporium)
-[![](https://img.shields.io/badge/Newsletter-FFE01B?style=for-the-badge&logo=MailChimp&logoColor=white)](#)
+[![](https://img.shields.io/badge/Newsletter-FFE01B?style=for-the-badge&logo=MailChimp&logoColor=white)](http://eepurl.com/hkSEmH)
 
 ## I'm currently working on and learning.
 
