@@ -12,13 +12,14 @@ I am currently researching some of the most groundbreaking and innovations that 
 
 ## I'm currently working on and learning.
 
-__Synthetic biology :dna::__ I have recently bought a synthetic biology and bioengineering class from [the-Odin](https://www.the-odin.com/)  this class will teach how to do bioengineering with CRISPR cas9.
+<!-- __Synthetic biology :dna::__ I have recently bought a synthetic biology and bioengineering class from [the-Odin](https://www.the-odin.com/)  this class will teach how to do bioengineering with CRISPR cas9.
+-->
 
-__AI/ML :robot::__ I am learning and expanding the knowledge that I have on the field of AI. I am also researching some ethical and security problem that AI will bring in the coming years.
+<!-- __Quantum programming <img src="https://www.ibm.com/blogs/research/wp-content/uploads/2018/05/qiskit.gif" width="15px" >:__ I am expending the knowledge I have on quantum programming by learning some of the underlying mathematical concept needed and learning Qiskit -->
 
-__Quantum programming <img src="https://www.ibm.com/blogs/research/wp-content/uploads/2018/05/qiskit.gif" width="15px" >:__ I am expending the knowledge I have on quantum programming by learning some of the underlying mathematical concept needed and learning Qiskit
+__Artificial intelligence developer__ I am learning and expanding the knowledge that I have on the field of AI. I am also researching some ethical and security problem that AI will bring in the coming years.
 
-__Blockchain__: I'm doing some research on blockchain technology more precisely cryptocurrency. I want to know how we can use concepts coming from the field of crypto-economics and microeconomics to create economic development.
+__DeFi developper__: I'm doing some research on blockchain technology more precisely cryptocurrency. I want to know how we can use concepts coming from the field of crypto-economics and microeconomics to create economic development.
 
 ## My skills.
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
