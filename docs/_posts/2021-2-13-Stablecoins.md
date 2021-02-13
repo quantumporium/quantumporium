@@ -22,15 +22,20 @@ As explained above Stablecoins are backed by collaterals. Those collaterals can 
 
 ### Some example of Stablecoins.
 
-__Tether__ can be considered as one of the oldest stable coins. It was launched in 2014. Tether is pegged and used the U.S. dollar as collateral.
+__Tether__ can be considered as one of the oldest stable coins. It was launched in 2014. Tether is pegged and used the U.S. dollar as collateral.[^1]
 
 ![Tether]({{ site.baseurl }}/images/stablecoins/tether-preview.png)
 
 __Dai__ is a stable coin running on the MakerDao Dapp it is pegged to the U.S. dollar and is backed by ether.
-Unlike most of the other stable coins Dais is __decentralized__ meaning there is no central authority trusted with the control of the system, rather __it uses smart contracts build on top of Ethereum to properly function__.
+Unlike most of the other stable coins Dais is __decentralized__ meaning there is no central authority trusted with the control of the system, rather __it uses smart contracts build on top of Ethereum to properly function__.[^2]
 
 ![Dai]({{ site.baseurl }}/images/stablecoins/Dai_Logo.png)
 
-__USD coin__ is a stable coin that is backed by the U.S. dollar. It was created by __Coinbase__ one of the biggest bitcoin brokers and largest cryptocurrencies exchange.
+__USD coin__ is a stable coin that is backed by the U.S. dollar. It was created by __Coinbase__ one of the biggest bitcoin brokers and largest cryptocurrencies exchange.[^3]
 
 ![USDC]({{ site.baseurl }}/images/stablecoins/k-blog-usd-coin.png)
+
+
+[^1]: [ressource Tether img](https://www.ft.com/content/eb5cf045-1ea1-3b54-80cd-e9f8c8287f08)
+[^2]: [ressource Dai img](https://en.wikipedia.org/wiki/Dai_(cryptocurrency))
+[^3]: [ressource USD coin img](https://blog.kraken.com/post/3417/usd-coin-usdc-listed-on-kraken/)
