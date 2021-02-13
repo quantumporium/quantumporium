@@ -33,4 +33,6 @@ Unlike most of the other stable coins Dais is __decentralized__ meaning there is
 
 __USD coin__ is a stable coin that is backed by the U.S. dollar. It was created by __Coinbase__ one of the biggest bitcoin brokers and largest cryptocurrencies exchange.
 
-<img class="USDC" src="{{ baseurl }}/images/stablecoins/usdc-icon-86074d9d49.png" style="margin: auto;">
+<div style='margin: auto'>
+  <img class="USDC" src="{{ baseurl }}/images/stablecoins/usdc-icon-86074d9d49.png">
+</div>
