@@ -6,19 +6,19 @@ title: What are stable coin ?
 __Stablecoins__ are the response to the question of  __how can we make cryptocurrency less volatile__.
 In other words, stablecoins are cryptocurrencies made to __minimize the volatility of normal cryptocurrencies__ like bitcoin or ether.
 
-To do so, Stablecoins prices and value are __backed by an outside asset that is more stable__. This outside asset can be a fiat currency like the U.S. dollar and even gold.
-Stablecoins will also __create a "reserve" where the asset backing the Stablecoins will be securely stored__.
+To do so, a stablecoin price and value is __backed by an outside asset that is more stable__. This outside asset can be a fiat currency like the U.S. dollar and even gold.
+Stablecoins will also __create a special reserve where the asset backing the Stablecoins will be securely stored__.
 
 
-### Three types of stablecoins collateral.
+### Three types of Stablecoin collateral.
 
-As explained above Stablecoins are backed by collateral those collaterals can be diverse here are three of the most use.
+As explained above Stablecoins are backed by collaterals. Those collaterals can be diverse here are three of the most popular Stablecoin collateral.
 
-* __Fiats__ are the most commonly used collateral for stable coins. The most popular fiat collateral is the U.S. dollar, but some companies are exploring other fiat collateral for stable coins.
+* __Fiats__ are the most commonly used collateral for stablecoins. The most popular fiat collateral is the U.S. dollar, but some companies are exploring other fiat collateral for stable coins.
 
 * Other Stablecoins are tied to the value of __precious metals__ like gold.
 
-* These are a more complex type of Stablecoins that __use other cryptocurrencies as collateral__ rather than fiat. Those special kinds of stable coins are engineered to track mainstream assets like a fiat currency.
+* There are a more complex type of Stablecoins that __use other cryptocurrencies as collateral__ rather than fiat. Those special kinds of stable coins are engineered to track mainstream assets like a fiat currency.
 
 ### Some example of Stablecoins.
 
@@ -33,4 +33,4 @@ Unlike most of the other stable coins Dais is __decentralized__ meaning there is
 
 __USD coin__ is a stable coin that is backed by the U.S. dollar. It was created by __Coinbase__ one of the biggest bitcoin brokers and largest cryptocurrencies exchange.
 
-![USDC]({{ baseurl }}/images/stablecoins/usdc-icon-86074d9d49.png)
+<img class="USDC" src="{{ baseurl }}/images/stablecoins/usdc-icon-86074d9d49.png" style="margin: auto;">
