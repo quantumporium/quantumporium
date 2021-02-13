@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are stable coin ?
+title: What are stablecoins ?
 ---
 
 __Stablecoins__ are the response to the question of  __how can we make cryptocurrency less volatile__.
@@ -10,7 +10,7 @@ To do so, a stablecoin price and value is __backed by an outside asset that is m
 Stablecoins will also __create a special reserve where the asset backing the Stablecoins will be securely stored__.
 
 
-### Three types of Stablecoin collateral.
+## Three types of Stablecoin collateral.
 
 As explained above Stablecoins are backed by collaterals. Those collaterals can be diverse here are three of the most popular Stablecoin collateral.
 
@@ -20,7 +20,7 @@ As explained above Stablecoins are backed by collaterals. Those collaterals can 
 
 * There are a more complex type of Stablecoins that __use other cryptocurrencies as collateral__ rather than fiat. Those special kinds of stable coins are engineered to track mainstream assets like a fiat currency.
 
-### Some example of Stablecoins.
+## Some example of Stablecoins.
 
 __Tether__ can be considered as one of the oldest stable coins. It was launched in 2014. Tether is pegged and used the U.S. dollar as collateral.[^1]
 
