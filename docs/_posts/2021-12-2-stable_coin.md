@@ -1,6 +1,6 @@
 ---
 layout: post
-title: luiquidity pool what are they how do they work
+title: What are stable coin.
 ---
 
 # What are stable coin
