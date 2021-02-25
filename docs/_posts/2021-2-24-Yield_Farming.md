@@ -25,7 +25,7 @@ Take for example a user named Bob. Bob decided he wanted to take part in the yie
 
 > Compound is a Dapp build on the Ethereum blockchain that allows its user to take out loans or to give liquidity. Giving liquidity consist of stacking up cryptocurrency in a special type of smart contract called a liquidity pool you can compare liquidity pool as a digital dump for cryptocurrency. 
 
-After deposing his 20 dollars worth of DAI Bob will receive a cDai.CDai is a type of cToken which are a Compound native token. Compound use those tokens to tracked the supplied asset. To make it more clear tokens are used to track how much a giving user owns funds that are in Compound.
+After deposing his 20 dollars worth of DAI Bob will receive a cDai. CDai is a type of cToken which are a Compound native token. Compound use those tokens to tracked the supplied asset. To make it more clear tokens are used to track how much a giving user owns funds that are in Compound.
 As soon that you deposited your 20 dollars worth of day in Compound and receive the cTokens that are equivalent to the amount you put in the liquidity pool you will begin to earn interest rates on your deposit. For example, bob will earn 7.05% APY on is DAI locked. 
 
 > APY also know as annual percentage yield is what we use to measure the rate of return of your reward after taking into account compound interest. Compound interest is just interest that is earned on previous interest.
@@ -33,4 +33,6 @@ As soon that you deposited your 20 dollars worth of day in Compound and receive 
 If you want to get your fund back and the reward you just need to redeem the cTokens that you earn when you put your fund in.
 
 ### Reference list.
--
+- (Article by coindesk)[https://www.coindesk.com/defi-yield-farming-comp-token-explained]
+- (Article by coinmaketcap)[https://coinmarketcap.com/alexandria/article/what-is-yield-farming#:~:text=Yield%20farming%20is%20currently%20the,smart%20contract%2Dbased%20liquidity%20pool.]
+- (Article by binance)[https://academy.binance.com/en/articles/what-is-compound-finance-in-defi]
