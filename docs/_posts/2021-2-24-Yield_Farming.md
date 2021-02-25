@@ -42,9 +42,8 @@ If you want to get your fund back and the reward you just need to redeem the cTo
 
 ### Reference list.
 - [Article by coindesk](https://www.coindesk.com/defi-yield-farming-comp-token-explained)
-- [Article by coinmaketcap](https://coinmarketcap.com/alexandria/article/what-is-yield farming#:~:text=Yield%20farming%20is%20currently%20the,smart%20contract%2Dbased%20liquidity%20pool.)
+- [Article by coinmaketcap](https://coinmarketcap.com/alexandria/article/what-is-yieldfarming#:~:text=Yield%20farming%20is%20currently%20the,smart%20contract%2Dbased%20liquidity%20pool.)
 - [Article by binance](https://academy.binance.com/en/articles/what-is-compound-finance-in-defi)
-
 
 [^1]:https://twitter.com/cryptodiffer/status/1354088113996509187
 [^2]:https://defipulse.com/blog/zero-to-defi-cdai/
