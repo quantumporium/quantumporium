@@ -9,6 +9,8 @@ In this new ecosystem, the quote will be more accurate as, __" Don’t work for 
 
 One way that you can make this statement come true, is by taking part in the Yield Farming trend. With more than __1.9 billion__ in crypto put in yield farming platform, this new Defi trend can be considered as the biggest growth driver of the Defi ecosystem.
 
+![Yield farming chart]({{ site.baseurl }})
+
 ## But what is yield farming?
 
 You can compare Yield farming as earning interest from a loan that you deposit in an interest-bearing account at your bank. The difference is that instead of deposing fiat currency in a centralized institution, you deposited cryptocurrency in a special kind of smart contract called a liquidity pool and ear more interest from it.
@@ -25,8 +27,12 @@ Take for example a user named Bob. Bob decided he wanted to take part in the yie
 
 > Compound is a Dapp build on the Ethereum blockchain that allows its user to take out loans or to give liquidity. Giving liquidity consist of stacking up cryptocurrency in a special type of smart contract called a liquidity pool you can compare liquidity pool as a digital dump for cryptocurrency. 
 
-After deposing his 20 dollars worth of DAI Bob will receive a cDai. CDai is a type of cToken which are a Compound native token. Compound use those tokens to tracked the supplied asset. To make it more clear tokens are used to track how much a giving user owns funds that are in Compound.
-As soon that you deposited your 20 dollars worth of day in Compound and receive the cTokens that are equivalent to the amount you put in the liquidity pool you will begin to earn interest rates on your deposit. For example, bob will earn 7.05% APY on is DAI locked. 
+
+![Compound logo]({{ site.baseurl }})
+
+
+After deposing his 20 :dollar: worth of DAI Bob will receive a cDai. CDai is a type of cToken which are a Compound native token. Compound use those tokens to tracked the supplied asset. To make it more clear tokens are used to track how much a giving user owns funds that are in Compound.
+As soon that you deposited your 20 :dollar: worth of day in Compound and receive the cTokens that are equivalent to the amount you put in the liquidity pool you will begin to earn interest rates on your deposit. For example, bob will earn 7.05% APY on is DAI locked. 
 
 > APY also know as annual percentage yield is what we use to measure the rate of return of your reward after taking into account compound interest. Compound interest is just interest that is earned on previous interest.
 
