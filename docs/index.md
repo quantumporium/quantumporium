@@ -2,6 +2,7 @@
 layout: page
 ---
 
+
 ## About Me
 Hi, I am Penyel Djegnene, a 17 y/o afro-Canadian currently based in Quebec.
 
