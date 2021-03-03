@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 Hi, I am Penyel Djegnene, a 17 y/o afro-Canadian currently based in Quebec.
 
 Since I was a kid, I have always been passionate about innovation. It started in primary school science class and evolved throughout the year as I developed a passion for everything stem-oriented.
