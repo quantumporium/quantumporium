@@ -32,4 +32,4 @@ __DeFi developper__: I'm doing some research on blockchain technology more preci
 
 <br>
 
-<h3 align="center"> Check out some of my repo below :point_down: </h3>
+<h3 align="center"> Check out some of the project I am currently working on :point_down: </h3>
