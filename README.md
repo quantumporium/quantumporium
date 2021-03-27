@@ -8,7 +8,7 @@ I am currently researching some of the most groundbreaking and innovations that 
 [![](https://img.shields.io/badge/Newsletter-FFE01B?style=for-the-badge&logo=MailChimp&logoColor=white)](http://eepurl.com/hkSEmH)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/quantumporium)
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/quantumPorium)
-[![](https://img.shields.io/badge/personnal_website-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://quantumporium.github.io/quantumporium/)
+[![](https://img.shields.io/badge/personnal_website-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://penyel-djegnene.com/blog/)
 
 ## I'm currently working on and learning.
 
